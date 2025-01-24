@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-21T18:06:09 IST" name="Surefire suite" finished-at="2025-01-21T18:06:11 IST" duration-ms="2015">
+    <groups>
+    </groups>
+    <test started-at="2025-01-21T18:06:09 IST" name="Surefire test" finished-at="2025-01-21T18:06:11 IST" duration-ms="2015">
+      <class name="IATest">
+        <test-method signature="PostResTest()[pri:0, instance:IATest@3e3047e6]" started-at="2025-01-21T18:06:09 IST" name="PostResTest" finished-at="2025-01-21T18:06:11 IST" duration-ms="1976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostResTest -->
+      </class> <!-- IATest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
